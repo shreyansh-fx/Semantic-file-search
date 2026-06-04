@@ -4,13 +4,7 @@ A local semantic search system that allows users to search images using natural 
 
 ## Architecture
 
-User Query
-↓
-Embedding Model
-↓
-Qdrant Vector Search
-↓
-Matching Files
+User Query --> Embedding Model --> Qdrant Vector Search --> Matching Files
 
 ## Search Example
 
